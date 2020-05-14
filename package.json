@@ -3,6 +3,7 @@
   "version": "1.0.1",
   "description": "Binary Search Tree with Print Functionality",
   "main": "bst.min.js",
+  "types": "bst.d.ts",
   "scripts": {
     "test": "mocha bst.spec.js"
   },
