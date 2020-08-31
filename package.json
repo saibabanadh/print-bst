@@ -1,6 +1,6 @@
 {
   "name": "print-bst",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "description": "Binary Search Tree with Print Functionality",
   "main": "bst.min.js",
   "types": "bst.d.ts",
